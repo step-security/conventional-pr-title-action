@@ -1,0 +1,39 @@
+{
+  "name": "conventional-pr-title-action",
+  "version": "0.1.0",
+  "description": "Ensure your PR title matches the Conventional Commits spec.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest src",
+    "release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/step-security/conventional-pr-title-action.git"
+  },
+  "keywords": [
+    "github-action",
+    "conventional-commits"
+  ],
+  "author": "Zadkiel <hello@zadkiel.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/step-security/conventional-pr-title-action/issues"
+  },
+  "homepage": "https://github.com/step-security/conventional-pr-title-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1",
+    "conventional-changelog-conventionalcommits": "^6.1.0",
+    "conventional-commit-types": "^3.0.0",
+    "conventional-commits-parser": "^4.0.0",
+    "axios": "^1.6.2",
+    "npm-package-arg": "^11.0.1"
+  },
+  "devDependencies": {
+    "jest": "29.6.2"
+  },
+  "engines": {
+    "node": ">= 16.16.0"
+  }
+}
