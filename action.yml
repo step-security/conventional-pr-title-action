@@ -24,7 +24,7 @@ inputs:
     default: https://www.conventionalcommits.org/en/v1.0.0/#summary
 runs:
   using: "docker"
-  image: "docker://ghcr.io/step-security/conventional-pr-title-action@sha256:054989d4852fc0a8e7efe3887ea37da35630613dc3d3700717ec7f9c6d99e132"
+  image: "docker://ghcr.io/step-security/conventional-pr-title-action@sha256:aab2cae430a4cd34113870ea2c92975e83bf1d3cb0b03e5683e10f5c14d018c3"
 
 branding:
   icon: shield
