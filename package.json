@@ -1,6 +1,6 @@
 {
   "name": "conventional-pr-title-action",
-  "version": "0.1.0",
+  "version": "3.2.6",
   "description": "Ensure your PR title matches the Conventional Commits spec.",
   "main": "src/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "github-action",
     "conventional-commits"
   ],
-  "author": "Zadkiel <hello@zadkiel.fr>",
+  "author": "step-security",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/step-security/conventional-pr-title-action/issues"
