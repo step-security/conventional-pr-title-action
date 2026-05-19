@@ -1,3 +1,5 @@
+[![StepSecurity Maintained Action](https://raw.githubusercontent.com/step-security/maintained-actions-assets/main/assets/maintained-action-banner.png)](https://docs.stepsecurity.io/actions/stepsecurity-maintained-actions)
+
 # StepSecurity Maintained Conventional PR Title Action
 
 Forked from: [aslafy-z/conventional-pr-title-action](https://github.com/aslafy-z/conventional-pr-title-action)
